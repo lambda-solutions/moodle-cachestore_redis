@@ -1,7 +1,7 @@
 Redis Cache Store for Moodle
 ============================
 
-[![Build Status](https://travis-ci.org/lambda-solutions/moodle-cachestore_redis.svg?branch=master)](https://travis-ci.org/durana/moodle-cachestore_redis)
+[![Build Status](https://travis-ci.org/lambda-solutions/moodle-cachestore_redis.svg?branch=master)](https://travis-ci.org/lambda-solutions/moodle-cachestore_redis)
 
 A Moodle cache store plugin for [Redis](http://redis.io).
 
